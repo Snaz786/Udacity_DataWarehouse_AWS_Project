@@ -10,6 +10,7 @@ Star Schema model means that it has one Fact Table having business data, and sup
 
 DB schema is the following:-
 
+https://github.com/Snaz786/Udacity_DataWarehouse_AWS_Project/blob/master/Output_Analytics/Analytics%20Table.JPG
 
  
  
@@ -63,6 +64,8 @@ EXECUTION:-
 
 
 Snapshot of counts of Analytics Tables on AWS redshift cluster.
+https://github.com/Snaz786/Udacity_DataWarehouse_AWS_Project/blob/master/Output_Analytics/Output_Redshift.jpeg
+
 
 1) Artists Table
 
@@ -80,12 +83,11 @@ Get count of rows in Songs table:14896 records
 Get count of rows in Users table:104 records
 
 5) Time Table
-Get count of rows in Iime table:6813 records
+ Get count of rows in Iime table:6813 records
 
 6) Staging_Songs Table
-Get count of rows in Staging Songs:14986 records
+ Get count of rows in Staging Songs:14986 records
 
-https://github.com/Snaz786/Udacity_DataWarehouse_AWS_Project/blob/master/Output_Analytics/Output_Redshift.jpeg
 
  
  
