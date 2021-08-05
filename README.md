@@ -14,9 +14,16 @@ DB schema is the following:-
  
 Staging Tables
 
+![alt text](https://github.com/Snaz786/Udacity_DataWarehouse_AWS_Project/blob/master/Output_Analytics/Staging_Tables.JPG)
+
+
 1) Staging_events: event data telling what users have done (columns: event_id, artist, auth, firstName, gender, itemInSession, lastName, length, level, location, method, page, registration, sessionId, song, status, ts, userAgent, userId)
 
 2) Staging_songs: song data about songs and artists (columns: num_songs, artist_id, artist_latitude, artist_longitude, artist_location, artist_name, song_id, title, duration, year)
+
+
+Staging Schema:
+
 
 
 
